@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Warpzie</h1>
+    <h2>Fugiat reprehendebvj,vjvjriicing duis. dolore.</h2>
+    <h3>Fugiat reprehendebvj,vjvjriicing duis. dolore.</h3>
+    <h4>Fugiat reprehendebvj,vjvjriicing duis. dolore.</h4>
+    <h5>Fugiat reprehendebvj,vjvjriicing duis. dolore.</h5>
+    <h6>Fugiat reprehendebvj,vjvjriicing duis. dolore.</h6>
+    <a href="https://www.w3schools.com/html/html_links.asp">w3 links </a><br>
+    <a href=" mailto:atrunkvalter@gmail.com">dm me!!</a>
+    <ul type="circle">
+        <li>a</li>
+        <li>b</li>
+    </ul>
+    <img src="oz.jpg" alt="hauko" title="hauko">
+    <table border="1">
+        <tr>
+            <th></th>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>1</td>
+            <td>2</td>
+            <th rowspan="2" colspan="2">5</th>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <th colspan="2">6</th>
+            <td>7</td>
+            <td>8</td>
+        </tr>
+    </table>
+    <form action="">
+        <label for="firstName">meno</label>
+        <input type="text" name = "firstName" id = "firstName">
+        <label for="">priezvisko</label>
+        <input type="text" name = "secondName" id = "secondName"><br>
+        <select name="" id="">
+            <option value="">---- choose ----</option>
+            <option value="">html</option>
+            <option value="">css</option>
+            <option value="">javascript</option>
+        </select>
+        <textarea name="" id="">
+            rawr
+        </textarea>
+        <input type="submit">
+        <input type="checkbox" name="" id="">
+    </form>
+</body>
+</html>
